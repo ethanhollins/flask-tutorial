@@ -1,0 +1,17 @@
+__pycache__/
+Scripts/
+tcl/
+Lib/
+Include/
+pyvenv.cfg
+bin/
+include/
+lib
+build/
+dist/
+*.egg-info
+.pytest_cache/
+var/
+htmlcov/
+.coverage
+instance/
